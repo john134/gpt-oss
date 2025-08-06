@@ -1,1 +1,7 @@
-We aim for our tools to be used safely, responsibly, and democratically, while maximizing your control over how you use them. By using OpenAI gpt-oss-120b and gpt-oss-20b, you agree to comply with all applicable law.
+USAGE_POLICY
+
+This software—including all code, models, data, and documentation for gpt-oss-120b and gpt-oss-20b—is licensed exclusively to John (the “Licensee”) and may be used only by the Licensee or by agents acting under the Licensee’s direct, explicit authorization. No other individual or entity may access, copy, modify, distribute, sublicense, or otherwise use this software in any form.
+
+By accessing or running any part of this codebase, you confirm that you are the Licensee or a duly authorized agent under the Licensee’s full control. All rights not expressly granted herein are reserved by the Licensee. Unauthorized use or distribution will constitute infringement and may result in civil and criminal liability.  
+
+This license and all rights hereunder are revocable at the sole discretion of the Licensee and terminate automatically upon any breach of these terms. No warranties, conditions, or guarantees are provided by any party; the Licensee assumes all risk and liability for operation, modification, and deployment of this software.
